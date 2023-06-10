@@ -47,3 +47,12 @@ es que la suma de 6 y 4 es igual a 10, que es lo mismo decir 4 + 6 = 10, el algo
 
 ![image](https://github.com/ElGonDo/Prueba-Tecnica/assets/115126366/b6027d49-95d5-43e0-bca5-c7df22e28895)
 
+# QUINTO EJECICIO:
+Este ejercio me gusta bastante, ya que las bases de datos es una de las ramas que me gustan bastante y se me van bien.
+en este ejercio lo que mas se me llevo tiempo fue haciendo los registros ya que decidi hacerlo en consola.
+utilize un servidor local de XAMP que un servidor apache que tiene incorporado MySql. Para mi SQl es uno de los lenguages de base
+de datos mas facil de aprender y me encanta su estrutura, sintaxis, etc. Hice la tabla students con un total de 7  registros, y necesitaba
+que solo me mostraran aquellos estudiantes que fueran mayores de edad, es decir 18. Utilize la sentencia que where que iba a ser la que me iba indentificar los mayores
+usando el mayor o igual de 18 dentro de la columna "age" y que me seleccionara el nombre y la edad, de aquellos que cumpla la sentencia anterior:
+
+![image](https://github.com/ElGonDo/Prueba-Tecnica/assets/115126366/af506aaf-6b90-4400-ae6a-42718aec7186)
