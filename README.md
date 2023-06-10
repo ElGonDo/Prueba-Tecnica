@@ -1,6 +1,8 @@
 # Prueba-Tecnica
 Repositorio Con El Fin De Una Prueba Técnica Hecha Por Joseph López Henao
+
 Cordial Saludo Equipo De Lumu Technologies
+
 Muchas Gracias por la oportunidad de presentar una prueba tecnica, y asi ustedes conocer un poco mas de mi razonamiento y logica
 en programacion.
 me encuentro muy feliz al saber que llegue a este punto del proceso de seleccion. 
@@ -11,7 +13,7 @@ al leer la prueba tecnica, segui exactamente las intrucciones que ustedes induci
 Al mirar que problemas me dieron a resolver, decidi y fue la manera de que me senti comodo y decidi el lenguaje Python
 ya que es un lenguaje que conozco y me gusta resolver este tipo de algoritmos.
 
-PRIMER ALGORITMO:
+# PRIMER ALGORITMO:
 En este algoritmo me senti bastante comodo, ya que conocia un algoritmo de ordenamiento, como lo es el metodo burbuja,
 entonces ya que la matriz no era tan grande, era bueno este metodo, aunque no sea el mas eficaz, pero para esto me funciono bastante bien.
 Empeze haciendo el codigo con la variable con el respectivo arreglo, sabia que tenia que comparar los 2 elementos 1 por 1, para asi ir hallando el mayor.
@@ -20,7 +22,7 @@ bucle diciendo que itere por la longitud del arreglo, menos 1, es decir el ultim
 
 ![image](https://github.com/ElGonDo/Prueba-Tecnica/assets/115126366/d9eb2b1b-b1f5-477b-8ad5-53067ed6c476)
 
-SEGUNDO ALGORITMO:
+# SEGUNDO ALGORITMO:
 Este algoritmo fue mas sencillo, pero existia 2 maneras de hacerlo, de manera for o slicing, implemente las 2.
 ya que pues con el for, es una manera mas compleja de hacerlo, ya que cuando lo hice asi, tenia un problema con las interacciones, ya que
 no me monstraba la "h" para eso lo solucione restandole 1 a la longitudad de la lista, y que vaya desde el -1, pero de derecha a izquierda.
@@ -28,7 +30,7 @@ Este Es El Resultado:
 
 ![image](https://github.com/ElGonDo/Prueba-Tecnica/assets/115126366/0c3bfa92-2890-401b-82d4-c29a309039e5)
 
-TERCER ALGORITMO:
+# TERCER ALGORITMO:
 Este algoritmo fue el que mas tuve que poner logica, ya que no entendia el algoritmo como tal en si, despues de un analisis, supe que tenia que hallar el maximo
 y el minimo de la lista, ya para eso sabia que tenia que iterar y hacer una condicion que comparara. Empeze haciendo el for, me di cuenta que necesitaba unas variables
 para guardar ese maximo y minimo, y lo hacia solo si la condicion se cumplia, si el primer numero era mayor que el segundo se guardaba en la variable, y asi igual con
@@ -37,7 +39,7 @@ asi me quedo el resultado:
 
 ![image](https://github.com/ElGonDo/Prueba-Tecnica/assets/115126366/6473a44f-efac-444c-83a3-9e1c28395e02)
 
-CUARTO ALGORITMO:
+# CUARTO ALGORITMO:
 Este fue de mis favoritos! ya que este algoritmo tenia que hacer lo mismo que el mismo algoritmo, comparar 2 numeros de la lista, pero tenia que comprobar 
 que los 2 dieran una suma de 10. para esto use los 2 bucles, el primero para iterar, y el segundo que me comparaba. la condicion que me comprobaba que la suma fuera correcta
 y gracias a la funcion de python ".apped" pude crear un lista nueva para agregar esos 2 numeros que cuya suma fuera 10 y asi mostrarle cuales se ultizo. El unico fallo que veo
